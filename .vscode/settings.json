@@ -70,7 +70,12 @@
         "cinttypes": "cpp",
         "typeindex": "cpp",
         "typeinfo": "cpp",
-        "variant": "cpp"
+        "variant": "cpp",
+        "shared_mutex": "cpp",
+        "strstream": "cpp",
+        "bitset": "cpp",
+        "cfenv": "cpp",
+        "*.txt": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }

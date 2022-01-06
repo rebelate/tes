@@ -1,8 +1,1 @@
-class Mjpeg_server
-{
-public:
-    Mjpeg_server();
-
-private:
-    static void handle_connection();
-};
+void mjpeg_server(int = 1337);
